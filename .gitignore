@@ -1,0 +1,5 @@
+data-airfoils-test.npz
+network
+data-airfoils.npz
+temp/
+.ipynb_checkpoints/
